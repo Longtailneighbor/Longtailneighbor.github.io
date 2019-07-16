@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Anchoret
-subtitle: Choose You Own Path
-description: 逢君一笑，人间无此欢喜
-author: 诗翔
+title: john&fcf 
+subtitle: Bulid the heart
+description: fortunately 
+author: jhon
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -214,8 +214,8 @@ font:
 #social:
   #LinkLabel: Link
 social:
-    GitHub: https://github.com/ShixiangWang
-    简书: http://www.jianshu.com/u/b6608e27dc74
+    GitHub: https://github.com/longtailneighbor
+ 
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -232,8 +232,8 @@ social_icons:
 
   
 # reward
-reward_comment: 人该是自己生活的主宰，而不是别人手里的行货
-alipay: /images/reward_image/alipay-reward-image.jpg
+reward_comment: 人该是自己生活的主宰，而不是别人手里的行货,无论何时，奋起都不迟。
+#alipay: /images/reward_image/alipay-reward-image.jpg
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 #avatar:
@@ -289,14 +289,14 @@ sidebar:
 #links_layout: inline
 #links:
   #Title: http://example.com/
-links_title: 推荐阅读
-links:
-  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
-  R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+#links_title: 推荐阅读
+#links:
+#  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
+#  R的极客理想系列: http://blog.fens.me/series-r/
+# 谢益辉: https://yihui.name/
+#   解螺旋的矿工: http://www.huangshujia.me/
+#  GuangchuangYu: https://github.com/GuangchuangYu
+#  生信技能树: https://vip.biotrainee.com/
 
 # ---------------------------------------------------------------
 # Post Settings
